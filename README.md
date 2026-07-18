@@ -35,6 +35,7 @@
 ### Random Forest Classifier
 
 ## Model Performance
+### Support Vector Machine (SVM)
  | Metric    | Score  |
  | --------- | ------ |
  | Accuracy  | 95.95% |
@@ -42,4 +43,11 @@
  | Recall    | 95.95% |
  | F1 Score  | 95.95% |
 
+### Random Forest
+| Metric    | Score      |
+| --------- | ---------- |
+| Accuracy  | **96.24%** |
+| Precision | **96.25%** |
+| Recall    | **96.24%** |
+| F1 Score  | **96.23%** |
 
