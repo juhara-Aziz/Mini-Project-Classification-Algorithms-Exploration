@@ -1,7 +1,7 @@
 # Airline Passenger Satisfaction Classification
 
 ## Project Overview
-### This project aims to predict airline passenger satisfaction using machine learning classification algorithms. The dataset contains passenger demographics, flight details, and service ratings collected from airline surveys.
+#### This project aims to predict airline passenger satisfaction using machine learning classification algorithms. The dataset contains passenger demographics, flight details, and service ratings collected from airline surveys.
 
 ## The dataset contains
 #### Gender
@@ -28,14 +28,14 @@
 #### Arrival Delay in Minutes
 #### Satisfaction
 
-### kaggle: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?utm_source=chatgpt.com
+#### kaggle: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?utm_source=chatgpt.com
 
 ## Machine Learning Models
 ### Support Vector Machine (SVM)
 ### Random Forest Classifier
 
 ## Model Performance
-### Support Vector Machine (SVM)
+#### Support Vector Machine (SVM)
  | Metric    | Score  |
  | --------- | ------ |
  | Accuracy  | 95.95% |
@@ -43,7 +43,7 @@
  | Recall    | 95.95% |
  | F1 Score  | 95.95% |
 
-### Random Forest
+#### Random Forest
 | Metric    | Score      |
 | --------- | ---------- |
 | Accuracy  | **96.24%** |
