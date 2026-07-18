@@ -35,11 +35,11 @@
 ### Random Forest Classifier
 
 ## Model Performance
-### | Metric    | Score  |
-### | --------- | ------ |
-### | Accuracy  | 95.95% |
-### | Precision | 95.96% |
-### | Recall    | 95.95% |
-### | F1 Score  | 95.95% |
+ | Metric    | Score  |
+ | --------- | ------ |
+ | Accuracy  | 95.95% |
+ | Precision | 95.96% |
+ | Recall    | 95.95% |
+ | F1 Score  | 95.95% |
 
 
